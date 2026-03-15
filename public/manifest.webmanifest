@@ -1,0 +1,17 @@
+{
+  "name": "食刻 · 大学城美食地图",
+  "short_name": "食刻",
+  "description": "此刻，带你逛遍大学城的每一口好吃的。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f7ef",
+  "theme_color": "#eb6a39",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}
